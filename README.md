@@ -11,4 +11,4 @@ This repository contains the Renca Transwell Migration Batch Cell Counter and No
 3. Check the `cellcounter_results` directory and the generated CSV files for the counts and normalized data.
 
 ## Citation
-If you use this repository in your research, **please consider starring the repository and citing it** to help support future development.
+If you use this repository in your research, **please consider citing the repository** to help support future development.
